@@ -10,10 +10,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_8bbzdsk",
-        "template_1dlm0g3",
+        "service_wsgu5zv",
+        "template_qnujvwl",
         form.current,
-        "ZJcqgDgPr280XsH_V"
+        "Wl-hT-eH3I8A4e_Ok"
       )
       
       e.target.reset();
@@ -32,10 +32,10 @@ const Contact = () => {
               <i className="bx bx-mail-send contact__card-icon"></i>
 
               <h3 className="contact__card-title">Email</h3>
-              <span className="contact__card-data">pradeepksp96@gmail.com</span>
+              <span className="contact__card-data">siva2003010@gmail.com</span>
 
               <a
-                href="mailto:pradeepksp96@gmail.com"
+                href="mailto:siva2003010@gmail.com"
                 className="contact__button"
                 target="_blank"
               >
@@ -48,10 +48,10 @@ const Contact = () => {
               <i className="bx bxl-whatsapp contact__card-icon"></i>
 
               <h3 className="contact__card-title">Whatsapp</h3>
-              <span className="contact__card-data">+91 82200 18259</span>
+              <span className="contact__card-data">+91 63790 13828</span>
 
               <a
-                href="https://wa.me/918220018259?text=Hello%20Pradeep!"
+                href="https://wa.me/916379013828?text=Hello%20Pradeep!"
                 className="contact__button"
                 target="_blank"
               >
@@ -60,7 +60,7 @@ const Contact = () => {
               </a>
             </div>
 
-            <div className="contact__card">
+            {/* <div className="contact__card">
               <i className="bx bxl-messenger contact__card-icon"></i>
 
               <h3 className="contact__card-title">Messenger</h3>
@@ -74,7 +74,7 @@ const Contact = () => {
                 Write me
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
 

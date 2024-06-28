@@ -59,7 +59,7 @@ const Qualifications = () => {
                 </h3>
                 <span className="qual__subtitle">
                 <i className="uil uil-university grade"></i>
-                  K.S.R. College of Engineering
+                  S.N.S. College of Engineering
                 </span>
                 <div className="qual__calender">
                   <i className="uil uil-notes grade"></i>
@@ -67,7 +67,7 @@ const Qualifications = () => {
                 </div>
                 <div className="qual__calender">
                   <i className="uil uil-calendar-alt"></i>
-                  2019 - Present
+                  2020 - 2024
                 </div>
                 
               </div>
@@ -91,15 +91,12 @@ const Qualifications = () => {
                 </h3>
                 <span className="qual__subtitle">
                 <i className="uil uil-university grade"></i>
-                  Navarasam Matriculation Higher Secondary School
+                  Government Higher Secondary School
                 </span>
-                <div className="qual__calender">
-                  <i className="uil uil-notes grade"></i>
-                  71.33%
-                </div>
+                
                 <div className="qual__calender">
                   <i className="uil uil-calendar-alt"></i>
-                  2018 - 2019
+                  2019 - 2020
                 </div>
               </div>
             </div>
@@ -111,15 +108,12 @@ const Qualifications = () => {
                 </h3>
                 <span className="qual__subtitle">
                 <i className="uil uil-university grade"></i>
-                  Navarasam Matriculation Higher Secondary School
+                  Nactional Matriculation Higher Secondary School
                 </span>
-                <div className="qual__calender">
-                  <i className="uil uil-notes grade"></i>
-                  91.80%
-                </div>
+                
                 <div className="qual__calender">
                   <i className="uil uil-calendar-alt"></i>
-                  2016 - 2017
+                  2017 - 2018
                 </div>
               </div>
 
@@ -141,10 +135,10 @@ const Qualifications = () => {
             <div className="qual__data">
               <div>
                 <h3 className="qual__title">
-                MongoDB - The Complete Developer's Guide 2023
+                Linux - The Complete Developer's Guide 2023
                 </h3>
                 <span className="qual__subtitle">
-                <i className="uil uil-university grade"></i>Udemy</span>
+                <i className="uil uil-university grade"></i>LINUC FOUNDATION</span>
                 <div className="qual__calender">
                   <i className="uil uil-calendar-alt"></i>
                   2023
@@ -165,9 +159,9 @@ const Qualifications = () => {
               </div>
               <div>
                 <h3 className="qual__title">
-                Angular - The Complete Guide (2023 Edition)
+                React - The Complete Guide (2023 Edition)
                 </h3>
-                <span className="qual__subtitle"><i className="uil uil-university grade"></i>Udemy</span>
+                <span className="qual__subtitle"><i className="uil uil-university grade"></i>Priepinsta</span>
                 <div className="qual__calender">
                   <i className="uil uil-calendar-alt"></i>
                   2022
@@ -182,9 +176,9 @@ const Qualifications = () => {
 
               <div>
                 <h3 className="qual__title">
-                  The Complete Node.js Developer Course (3rd Edition)
+                  Cloud Computing (3rd Edition)
                 </h3>
-                <span className="qual__subtitle"><i className="uil uil-university grade"></i>Udemy</span>
+                <span className="qual__subtitle"><i className="uil uil-university grade"></i>NPTL</span>
                 <div className="qual__calender">
                   <i className="uil uil-calendar-alt"></i>
                   2022
@@ -206,16 +200,7 @@ const Qualifications = () => {
                 {/* <span className="qual__line"></span> */}
               </div>
 
-              <div>
-                <h3 className="qual__title">
-                React - The Complete Guide (incl Hooks, React Router, Redux)
-                </h3>
-                <span className="qual__subtitle"><i className="uil uil-university grade"></i>Udemy</span>
-                <div className="qual__calender">
-                  <i className="uil uil-calendar-alt"></i>
-                  2022
-                </div>
-              </div>
+  
             </div>
           </div>
         </div>
