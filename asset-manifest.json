@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/siva/static/css/main.618570ba.css",
-    "main.js": "/siva/static/js/main.dab7830c.js",
+    "main.js": "/siva/static/js/main.0cc6f5be.js",
     "static/media/profile1.jpg": "/siva/static/media/profile1.070677a23dd487cd04da.jpg",
     "static/media/about.jpg": "/siva/static/media/about.c8b3f717e7f79c5edb30.jpg",
     "static/media/Sivaprakash.pdf": "/siva/static/media/Sivaprakash.6fadbf5649d891899c44.pdf",
     "index.html": "/siva/index.html",
     "main.618570ba.css.map": "/siva/static/css/main.618570ba.css.map",
-    "main.dab7830c.js.map": "/siva/static/js/main.dab7830c.js.map"
+    "main.0cc6f5be.js.map": "/siva/static/js/main.0cc6f5be.js.map"
   },
   "entrypoints": [
     "static/css/main.618570ba.css",
-    "static/js/main.dab7830c.js"
+    "static/js/main.0cc6f5be.js"
   ]
 }
