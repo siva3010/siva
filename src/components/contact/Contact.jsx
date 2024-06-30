@@ -40,7 +40,7 @@ const Contact = () => {
                 target="_blank"
               >
                 Write me
-                <i className="bx bx-right-arrow-alt contact__button-icon"></i>
+                <i className="bx  bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
 
@@ -51,7 +51,7 @@ const Contact = () => {
               <span className="contact__card-data">+91 63790 13828</span>
 
               <a
-                href="https://wa.me/916379013828?text=Hello%20Pradeep!"
+                href="https://wa.me/916379013828?text=Hello%20Siva!"
                 className="contact__button"
                 target="_blank"
               >
