@@ -62,7 +62,7 @@ const Data = () => {
         </h3>
 
         <p className="home__description">
-        I'm an MERN Stack Web Developer, Working with my hands to make magic on the internet, and I'm very passionate and dedicated to my work.
+        I'm an Web Developer, Working with my hands to make magic on the internet, and I'm very passionate and dedicated to my work.
         </p>
 
 
