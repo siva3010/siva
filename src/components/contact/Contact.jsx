@@ -32,7 +32,7 @@ const Contact = () => {
               <i className="bx bx-mail-send contact__card-icon"></i>
 
               <h3 className="contact__card-title">Email</h3>
-              <span className="contact__card-data">siva2003010@gmail.com</span>
+              <span className="contact__card-data">siv77817@gmail.com</span>
 
               <a
                 href="mailto:siva2003010@gmail.com"
