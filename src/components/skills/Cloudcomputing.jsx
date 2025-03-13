@@ -1,7 +1,7 @@
 
 import React from 'react'
 
-const BackEnd = () => {
+const Cloudcomputing = () => {
   return (
     <div className="skills__content">
         <h3 className="skills__title">Cloud Computing</h3>
