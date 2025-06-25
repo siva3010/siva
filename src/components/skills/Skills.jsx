@@ -11,9 +11,7 @@ const Skills = () => {
 
         <div className="skills__container container grid">
             <FrontEnd />
-            
-
-
+            <Cloudcomputing/>
             <BackEnd />
         </div>
     </section>
