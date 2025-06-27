@@ -2,8 +2,6 @@ import './skills.css';
 import React from 'react'
 import FrontEnd from './FrontEnd';
 import BackEnd from './BackEnd';
-import Cloudcomputing from './CloudComputing'
-import Adobe from './Adobe';
 
 const Skills = () => {
   return (
@@ -14,7 +12,6 @@ const Skills = () => {
         <div className="skills__container container grid">
             <FrontEnd />
             <Cloudcomputing/>
-            <Adobe/>
             <BackEnd />
         </div>
     </section>
