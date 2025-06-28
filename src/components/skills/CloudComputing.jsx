@@ -1,4 +1,3 @@
-
 import React from 'react'
 
 const Cloudcomputing = () => {
@@ -11,46 +10,49 @@ const Cloudcomputing = () => {
                 <div className="skills__data">
                     <i className="bx bx-badge-check"></i>
                     <div>
-                        <h3 className="skills__name">Google Cloud</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <h3 className="skills__name">GCP</h3>
+                        <span className="skills__level">Advanced</span>
                     </div>
                 </div>
+
                 <div className="skills__data">
                     <i className="bx bx-badge-check"></i>
                     <div>
-                        <h3 className="skills__name">Linux</h3>
-                        <span className="skills__level">Intermediate</span>
+                    <h3 className="skills__name">AIM</h3>
+                        <span className="skills__level">Advanced</span>
+                        
                     </div>
                 </div>
-            </div>
 
-            
+                
+
+            </div>
 
             <div className="skills__group">
 
             <div className="skills__data">
                     <i className="bx bx-badge-check"></i>
                     <div>
-                        <h3 className="skills__name">Awz</h3>
-                        <span className="skills__level">Advanced</span>
-                        
+                        <h3 className="skills__name">AWS</h3>
+                        <span className="skills__level">Intermediate</span>
                     </div>
                 </div>
+                
+                
+
                 <div className="skills__data">
                     <i className="bx bx-badge-check"></i>
                     <div>
-                        <h3 className="skills__name">VM, IAM ,VPN</h3>
+                        <h3 className="skills__name">VPC</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
                 </div>
 
-                
-
-                
+               
             </div>
         </div>
     </div>
   )
 }
 
-export default BackEnd
+export default Cloudcomputing
